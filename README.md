@@ -2,8 +2,8 @@
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?s=200" width="120" style="border-radius:50%;" />
-  <h1>Hi, I'm YOUR_NAME 👋</h1>
-  <p><b>Software Developer</b> — Full-stack web, tools, automation & game server scripting</p>
+  <h1>Hi, I'm llowkeyll 👋</h1>
+  <p><b>Software Developer</b> — Full stack web, tools, automation & game server scripting</p>
   
   <!-- Badges -->
   <p>
