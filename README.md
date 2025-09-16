@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?s=200" width="120" style="border-radius:50%;" />
   <h1>Hi, I'm llowkeyll 👋</h1>
-  <p><b>Software Developer</b> — Full stack web, tools, automation & game server scripting</p>
+  <p><b>Software Developer & Full Stack Website Developer</b></p>
   
   <!-- Badges -->
   <p>
@@ -16,9 +16,23 @@
 ---
 
 ## 🚀 About Me
-I build reliable tooling, polished web apps, and server-side automations.  
-I focus on **clean code, practical UX, and scalable solutions**.  
-Currently exploring **game modding tools and Discord automations**.
+
+I’m a developer who thrives on building **practical, polished, and scalable solutions** — from full-stack web apps to automation tools and game server scripts.  
+I love bridging creativity with engineering, whether it’s crafting clean user experiences, designing backend systems that just work, or scripting immersive roleplay mechanics for gaming communities.  
+
+🔹 **Focus Areas**:  
+- Full-stack web development with modern frameworks  
+- Game development tooling (FiveM scripting, Lua systems)  
+- Discord bots and workflow automation  
+- Custom utilities like Chrome extensions & CI/CD pipelines  
+
+🔹 **Core Philosophy**:  
+- **Clean code** is maintainable code  
+- **Performance and scalability** matter more than quick hacks  
+- **User experience** should always feel effortless  
+- **Learning by building** beats theory alone  
+
+I’m always curious, always tinkering, and always looking for new challenges that push me out of my comfort zone. If it involves **problem-solving, community impact, or clever engineering**, you’ll find me working on it.
 
 ---
 
@@ -43,16 +57,16 @@ Currently exploring **game modding tools and Discord automations**.
 ---
 
 ## 📂 Featured Projects
-- [**PROJECT_ONE**](https://github.com/YOUR_USERNAME/PROJECT_ONE) — Short one-line description *(Node.js, Express, PostgreSQL)*  
-- [**PROJECT_TWO**](https://github.com/YOUR_USERNAME/PROJECT_TWO) — Short one-line description *(React, Tailwind, Vite)*  
-- [**PROJECT_THREE**](https://github.com/YOUR_USERNAME/PROJECT_THREE) — Short one-line description *(FiveM, Lua, server scripting)*  
+- [**PROJECT_ONE**](https://github.com/llowkeyll/PROJECT_ONE) — Short one-line description *(Node.js, Express, PostgreSQL)*  
+- [**PROJECT_TWO**](https://github.com/llowkeyll/PROJECT_TWO) — Short one-line description *(React, Tailwind, Vite)*  
+- [**PROJECT_THREE**](https://github.com/llowkeyll/PROJECT_THREE) — Short one-line description *(FiveM, Lua, server scripting)*  
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=llowkeyll&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=llowkeyll&theme=radical" height="180" />
 </div>
 
 ---
