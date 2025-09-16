@@ -57,9 +57,9 @@ I’m always curious, always tinkering, and always looking for new challenges th
 ---
 
 ## 📂 Featured Projects
-- [**PROJECT_ONE**](https://github.com/llowkeyll/PROJECT_ONE) — Short one-line description *(Node.js, Express, PostgreSQL)*  
-- [**PROJECT_TWO**](https://github.com/llowkeyll/PROJECT_TWO) — Short one-line description *(React, Tailwind, Vite)*  
-- [**PROJECT_THREE**](https://github.com/llowkeyll/PROJECT_THREE) — Short one-line description *(FiveM, Lua, server scripting)*  
+- [**Coming soon...**](https://github.com/llowkeyll/PROJECT_ONE) — Short one-line description *(Node.js, Express, PostgreSQL)*  
+- [**Coming soon...**](https://github.com/llowkeyll/PROJECT_TWO) — Short one-line description *(React, Tailwind, Vite)*  
+- [**Coming soon...**](https://github.com/llowkeyll/PROJECT_THREE) — Short one-line description *(FiveM, Lua, server scripting)*  
 
 ---
 
@@ -73,8 +73,6 @@ I’m always curious, always tinkering, and always looking for new challenges th
 
 ## 🤝 Connect with Me
 <div align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-000?logo=gmail" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-000?logo=twitter" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-000?logo=github" /></a>
+  <a href="https://twitter.com/llowkeyll"><img src="https://img.shields.io/badge/Twitter-000?logo=twitter" /></a>
+  <a href="https://github.com/llowkeyll"><img src="https://img.shields.io/badge/GitHub-000?logo=github" /></a>
 </div>
