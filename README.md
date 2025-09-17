@@ -76,3 +76,6 @@ I’m always curious, always tinkering, and always looking for new challenges th
   <a href="https://twitter.com/llowkeyll"><img src="https://img.shields.io/badge/Twitter-000?logo=twitter" /></a>
   <a href="https://github.com/llowkeyll"><img src="https://img.shields.io/badge/GitHub-000?logo=github" /></a>
 </div>
+
+### 🐍 A fun little game to finish off
+![snake gif](https://github.com/technologyhell/technologyhell/blob/output/github-snake-dark.svg)
