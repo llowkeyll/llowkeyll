@@ -45,6 +45,8 @@ I’m always curious, always tinkering, and always looking for new challenges th
 ![React](https://img.shields.io/badge/React-000?logo=react)
 ![Lua](https://img.shields.io/badge/Lua-000?logo=lua)
 ![SQL](https://img.shields.io/badge/SQL-000?logo=postgresql)
+![HTML](https://img.shields.io/badge/HTML-000?logo=html)
+![CSS](https://img.shields.io/badge/CSS-000?logo=css)
 
 **Tools & Platforms**  
 ![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
