@@ -58,9 +58,7 @@ I’m always curious, always tinkering, and always looking for new challenges th
 ---
 
 ## 📂 Featured Projects
-- [**Coming soon...**](https://github.com/llowkeyll/PROJECT_ONE) — Short one-line description *(Node.js, Express, PostgreSQL)*  
-- [**Coming soon...**](https://github.com/llowkeyll/PROJECT_TWO) — Short one-line description *(React, Tailwind, Vite)*  
-- [**Coming soon...**](https://github.com/llowkeyll/PROJECT_THREE) — Short one-line description *(FiveM, Lua, server scripting)*  
+- [**Desk Assitant**](https://github.com/llowkeyll/desk-assitant) — voice activated desktop assistant with automated system discovery and custom application routes (Tauri, Rust, TypeScript)*  
 
 ---
 
