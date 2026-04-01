@@ -58,7 +58,7 @@ I’m always curious, always tinkering, and always looking for new challenges th
 ---
 
 ## 📂 Featured Projects
-- [**Desk Assitant**](https://github.com/llowkeyll/desk-assitant) — voice activated desktop assistant with automated system discovery and custom application routes (Tauri, Rust, TypeScript)*  
+- [**Desk Assitant**](https://github.com/llowkeyll/desk-assitant) — voice activated desktop assistant with automated system discovery (Tauri, Rust, TypeScript)  
 
 ---
 
